@@ -21,4 +21,4 @@ Please for this repository and then issue Pull Requests for review
 
 ### Copyright
 
-2017 Ilker.YILMAZ
+2017 Ilker.YILMAZ All rights reserved.
